@@ -1,5 +1,5 @@
 header nav a{
-    color: #ffffff;
+    color:$color-blanco;
     text-decoration: none;
     
 
@@ -27,19 +27,19 @@ header ul li{
 header ul li a{
     text-decoration: none;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #ffffff;
+    color:$color-blanco;
 
 }
 
 header a:hover{
-    color: #ff0000;
+    color:$color-rojo;
 }
 
 
 
 .boton-section{
-    background-color: #1a1a1a;
-    color: #ff0000;
+    background-color:$color-negro;
+    color:$color-rojo;
     text-decoration:none;
     border: 1px solid white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;

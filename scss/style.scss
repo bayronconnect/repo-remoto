@@ -1,8 +1,10 @@
-@import "reset.scss";
-@import "header.scss";
-@import "section-principal";
-@import "main.scss";
-@import "footer.scss"
+@import "base/reset";
+@import "layout/header";
+@import "layout/section-principal";
+@import "layout/main";
+@import "layout/footer"
+@import "components/botones"
+
 
 
 
