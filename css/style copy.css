@@ -1,0 +1,169 @@
+/* css parte 1  */
+
+body{background-color:#1a1a1a;}
+.contairner-anuncio{background-color:#ff0000 ;}
+.contairner-anuncio{color: #ffffff;}
+    .contairner-anuncio{text-align: center;}
+    header nav a{text-decoration: none;}
+    footer{color: #ffffff;}
+header nav a{color: #ffffff;} 
+
+main{color: #ffffff;}
+
+/* header */
+
+header{
+    /* display: flex; */
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+
+header ul{
+    list-style-type: none;
+    display: flex;
+}
+
+header ul li{
+    margin: 5px;
+}
+
+header ul li a{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ffffff;
+
+}
+
+header a:hover{
+    color: #ff0000;
+}
+
+
+
+
+/* CONTACTO DIRECTO A WHATSAPP */
+
+.logo-whatsapp{
+    position:fixed;
+    right: 10px;
+    bottom:10px ;
+      
+}
+
+
+
+/* CSS CARRO DE COMPRAS */
+.boton-section{
+    background-color: #1a1a1a;
+    color: #ff0000;
+    text-decoration:none;
+    border: 1px solid white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+
+/* css parte 2 con grid */
+
+
+/* bootstrap css */
+/* navbar css bootstrap */
+
+.bg-gotham{
+    background-color:#1a1a1a ;
+
+
+}
+
+.img-header{
+    width:13rem ;
+}
+
+.color-blanco{
+    color: white !important;
+}
+
+
+/* GRIDS CSS */
+/* GRID CONTAINER */
+
+.grid-container{
+    border: 1px blue;
+    
+    /* DISPLAY GRID */
+    display: grid;
+
+    grid-template-columns: repeat(4,1fr);
+    
+    grid-template-rows: repeat(3,175px);
+    
+    gap: 35px;
+    }
+    
+    
+    
+    .item-1{
+    /* background-color:#b7b7b7;
+    grid-column: 1/3;
+    grid-row: 1/3;
+    padding: 25px;
+    border-radius: 5px; */
+
+    background-color:#b7b7b7;
+    grid-column: 1/3;
+    grid-row: 1/4;
+    padding: 25px;
+    border-radius: 5px;
+
+    }
+
+    .item-1 p{
+        color: #1a1a1a;
+    }
+
+    .item-2 P{
+        color: #1a1a1a;
+    }
+    
+    .item-2{
+    background-color: #F3F3F3;
+    grid-column: 3/5;
+    grid-row: 1/4;
+    padding: 25px;
+    border-radius: 5px;
+    }
+    
+    
+    
+    H2{
+        color: #1a1a1a;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 2rem;
+        margin-bottom: 15px;
+    }
+    
+    P{
+        color: #ffffff;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin-bottom: 15px;
+    }
+    
+    .container-imgs{
+        display: flex;
+        align-items: center;
+    }
+    
+    .container-imgs2{
+        display: flex;
+        align-items: center;
+    }
+    
+    h3{color: #1a1a1a;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 2rem;
+        margin-bottom: 15px;
+    }
+    
