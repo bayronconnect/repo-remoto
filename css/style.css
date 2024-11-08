@@ -141,4 +141,119 @@ footer {
   bottom: 10px;
 }
 
+.mixin-botones .boton-1 {
+  background-color: red;
+  text-decoration: none;
+  color: white;
+  border-radius: 15px;
+  padding: 10px;
+}
+.mixin-botones .boton-2 {
+  background-color: red;
+  text-decoration: none;
+  color: white;
+  border-radius: 15px;
+  padding: 10px;
+}
+.mixin-botones .boton-3 {
+  background-color: red;
+  text-decoration: none;
+  color: white;
+  border-radius: 15px;
+  padding: 10px;
+}
+.mixin-botones .boton-4 {
+  background-color: red;
+  text-decoration: none;
+  color: white;
+  border-radius: 15px;
+  padding: 10px;
+}
+.mixin-botones .boton-5 {
+  background-color: red;
+  text-decoration: none;
+  color: white;
+  border-radius: 15px;
+  padding: 10px;
+}
+.mixin-botones .boton-6 {
+  background-color: red;
+  text-decoration: none;
+  color: white;
+  border-radius: 15px;
+  padding: 10px;
+}
+.mixin-botones .boton-7 {
+  background-color: red;
+  text-decoration: none;
+  color: white;
+  border-radius: 15px;
+  padding: 10px;
+}
+.mixin-botones .boton-8 {
+  background-color: red;
+  text-decoration: none;
+  color: white;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+/*f*/
+.mixin-botones .boton-1 {
+  background-color: red;
+  text-decoration: none;
+  color: white;
+  border-radius: 15px;
+  padding: 10px;
+}
+.mixin-botones .boton-2 {
+  background-color: red;
+  text-decoration: none;
+  color: white;
+  border-radius: 15px;
+  padding: 10px;
+}
+.mixin-botones .boton-3 {
+  background-color: red;
+  text-decoration: none;
+  color: white;
+  border-radius: 15px;
+  padding: 10px;
+}
+.mixin-botones .boton-4 {
+  background-color: red;
+  text-decoration: none;
+  color: white;
+  border-radius: 15px;
+  padding: 10px;
+}
+.mixin-botones .boton-5 {
+  background-color: red;
+  text-decoration: none;
+  color: white;
+  border-radius: 15px;
+  padding: 10px;
+}
+.mixin-botones .boton-6 {
+  background-color: red;
+  text-decoration: none;
+  color: white;
+  border-radius: 15px;
+  padding: 10px;
+}
+.mixin-botones .boton-7 {
+  background-color: red;
+  text-decoration: none;
+  color: white;
+  border-radius: 15px;
+  padding: 10px;
+}
+.mixin-botones .boton-8 {
+  background-color: red;
+  text-decoration: none;
+  color: white;
+  border-radius: 15px;
+  padding: 10px;
+}
+
 /*# sourceMappingURL=style.css.map */

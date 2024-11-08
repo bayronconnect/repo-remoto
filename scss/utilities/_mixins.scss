@@ -1,15 +1,34 @@
 @mixin boton{
-    background-color:$color-rojo;
+
+    background-color:red ;
     text-decoration:none;
-    color: $color-blanco;
+    color:white;
     border-radius: 15px;
-    padding:10px ;
-
+    padding: 10px;
 }
-
-
-
 .mixin-botones{
-   .boton1{@include boton() }
-
+    .boton-1{
+@include boton;
+    }
+    .boton-2{
+        @include boton;
+            }
+    .boton-3{
+        @include boton;
+            }
+    .boton-4{
+        @include boton;
+            }
+    .boton-5{
+        @include boton;
+            }
+    .boton-6{
+        @include boton;
+            }
+    .boton-7{
+        @include boton;
+            }
+    .boton-8{
+        @include boton;
+            }
 }
