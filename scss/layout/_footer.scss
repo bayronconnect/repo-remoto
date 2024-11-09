@@ -3,4 +3,11 @@ footer{color:$color-blanco;}
 .logo-whatsapp{
     position:fixed;
     right: 10px;
-    bottom:10px;}
+    bottom:10px;
+    transition: 2s;
+    &:hover{
+        transform: rotate(360deg);
+    }
+
+
+}

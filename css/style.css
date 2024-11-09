@@ -139,117 +139,71 @@ footer {
   position: fixed;
   right: 10px;
   bottom: 10px;
+  transition: 2s;
+}
+.logo-whatsapp:hover {
+  transform: rotate(360deg);
 }
 
 .mixin-botones .boton-1 {
-  background-color: red;
+  background: rgb(255, 0, 0);
+  background: radial-gradient(circle, rgb(255, 0, 0) 0%, rgb(0, 0, 0) 100%);
   text-decoration: none;
   color: white;
   border-radius: 15px;
   padding: 10px;
 }
 .mixin-botones .boton-2 {
-  background-color: red;
+  background: rgb(255, 0, 0);
+  background: radial-gradient(circle, rgb(255, 0, 0) 0%, rgb(0, 0, 0) 100%);
   text-decoration: none;
   color: white;
   border-radius: 15px;
   padding: 10px;
 }
 .mixin-botones .boton-3 {
-  background-color: red;
+  background: rgb(255, 0, 0);
+  background: radial-gradient(circle, rgb(255, 0, 0) 0%, rgb(0, 0, 0) 100%);
   text-decoration: none;
   color: white;
   border-radius: 15px;
   padding: 10px;
 }
 .mixin-botones .boton-4 {
-  background-color: red;
+  background: rgb(255, 0, 0);
+  background: radial-gradient(circle, rgb(255, 0, 0) 0%, rgb(0, 0, 0) 100%);
   text-decoration: none;
   color: white;
   border-radius: 15px;
   padding: 10px;
 }
 .mixin-botones .boton-5 {
-  background-color: red;
+  background: rgb(255, 0, 0);
+  background: radial-gradient(circle, rgb(255, 0, 0) 0%, rgb(0, 0, 0) 100%);
   text-decoration: none;
   color: white;
   border-radius: 15px;
   padding: 10px;
 }
 .mixin-botones .boton-6 {
-  background-color: red;
+  background: rgb(255, 0, 0);
+  background: radial-gradient(circle, rgb(255, 0, 0) 0%, rgb(0, 0, 0) 100%);
   text-decoration: none;
   color: white;
   border-radius: 15px;
   padding: 10px;
 }
 .mixin-botones .boton-7 {
-  background-color: red;
+  background: rgb(255, 0, 0);
+  background: radial-gradient(circle, rgb(255, 0, 0) 0%, rgb(0, 0, 0) 100%);
   text-decoration: none;
   color: white;
   border-radius: 15px;
   padding: 10px;
 }
 .mixin-botones .boton-8 {
-  background-color: red;
-  text-decoration: none;
-  color: white;
-  border-radius: 15px;
-  padding: 10px;
-}
-
-/*f*/
-.mixin-botones .boton-1 {
-  background-color: red;
-  text-decoration: none;
-  color: white;
-  border-radius: 15px;
-  padding: 10px;
-}
-.mixin-botones .boton-2 {
-  background-color: red;
-  text-decoration: none;
-  color: white;
-  border-radius: 15px;
-  padding: 10px;
-}
-.mixin-botones .boton-3 {
-  background-color: red;
-  text-decoration: none;
-  color: white;
-  border-radius: 15px;
-  padding: 10px;
-}
-.mixin-botones .boton-4 {
-  background-color: red;
-  text-decoration: none;
-  color: white;
-  border-radius: 15px;
-  padding: 10px;
-}
-.mixin-botones .boton-5 {
-  background-color: red;
-  text-decoration: none;
-  color: white;
-  border-radius: 15px;
-  padding: 10px;
-}
-.mixin-botones .boton-6 {
-  background-color: red;
-  text-decoration: none;
-  color: white;
-  border-radius: 15px;
-  padding: 10px;
-}
-.mixin-botones .boton-7 {
-  background-color: red;
-  text-decoration: none;
-  color: white;
-  border-radius: 15px;
-  padding: 10px;
-}
-.mixin-botones .boton-8 {
-  background-color: red;
+  background: rgb(255, 0, 0);
+  background: radial-gradient(circle, rgb(255, 0, 0) 0%, rgb(0, 0, 0) 100%);
   text-decoration: none;
   color: white;
   border-radius: 15px;
